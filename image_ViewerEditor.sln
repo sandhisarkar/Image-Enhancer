@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+# SharpDevelop 4.4
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "image_ViewerEditor", "image_ViewerEditor\image_ViewerEditor.csproj", "{13D3936C-33B0-4630-B336-A65EFFE56DF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GotoShowHelp", "..\..\Jyoti\GotoShowHelp\GotoShowHelp\GotoShowHelp.csproj", "{CA1202E4-B06E-469E-A03E-117B40F5D6E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImgCache", "..\ImageCacher\ImgCache\ImgCache.csproj", "{45F4B45D-D07C-4B78-AC52-AE3CC8378EAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D3936C-33B0-4630-B336-A65EFFE56DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D3936C-33B0-4630-B336-A65EFFE56DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D3936C-33B0-4630-B336-A65EFFE56DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D3936C-33B0-4630-B336-A65EFFE56DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA1202E4-B06E-469E-A03E-117B40F5D6E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1202E4-B06E-469E-A03E-117B40F5D6E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1202E4-B06E-469E-A03E-117B40F5D6E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1202E4-B06E-469E-A03E-117B40F5D6E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45F4B45D-D07C-4B78-AC52-AE3CC8378EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F4B45D-D07C-4B78-AC52-AE3CC8378EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F4B45D-D07C-4B78-AC52-AE3CC8378EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45F4B45D-D07C-4B78-AC52-AE3CC8378EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
